@@ -1,0 +1,5 @@
+max_investment,min_issue_amount,investment_amount,issue_currency,protected_capital,asset_type,underlying_asset,issue_ex_rate,term_days,period_of_observation,min_range,max_range,max_overall_rate,max_observation_date_rate,date_of_issue,exercise_or_expiry_date,status,cumulative_rate,return,final_amount
+100000,5000000,5000,MXN,1.0,CURRENCY,USD,19.96,65,WEEKLY,18.96,20.96,0.16,0.01,01/06/2021,08/05/2021,EXPIRED,0,0,5000
+200000,1000000,8000,USD,0.8,STOCKS,NVDA,162.65,98,WEEKLY,62.65,262.35,0.12,0.03,01/06/2021,07/09/2021,EXECUTED,0,960,8960
+300000,2000000,5000,USD,0.8,STOCKS,NVDA,167.78,180,MONTHLY,142.78,192.78,0.09,0.015,01/06/2021,01/12/2021,EXECUTED,0,75,5075
+120000,5000000,100,MXN,1.0,CURRENCY,USD,19.99,365,MONTHLY,18.69,21.29,0.12,0.01,01/12/2020,01/12/2021,EXECUTED,0,9,109

@@ -1,0 +1,46 @@
+Banco,,,,,,,,Movimientos,Banco,,,,,,,,,
+Previo a Movimientos,,,,,,,,,,,,,,,,,,
+stock,quantity,bought_price (USD),date,hour,Precio Total (USD):,,,Ejercicio de Neteo en compra,,,,,,,Ejercicio de Neteo Parcial Venta,,,
+MSFT,2, $304.65 ,23/08/2021,21:38:11, $609.30 ,,,Titulos a comprar,Acciones,Precio unitario por acción,Precio total,,,,Titulos a Vender,Acción,Precio unitario de Venta,Total
+NVDA,5, $219.58 ,23/08/2021,21:40:29," $1,097.90 ",,,1,PFE, $47.76 , $47.76 ,,,,1,GOOGL,2923.95," $2,923.95 "
+AMD,10, $107.65 ,24/08/2021,20:44:39," $1,076.50 ",,,1,TSLA, $706.94 , $706.94 ,,,,1,MSFT,299.99, $299.99 
+NSANY,50, $10.27 ,24/08/2021,20:48:45, $513.50 ,,,Titulos totales,Acción, Precio Unitario ,Precio Total,,,,1,NVDA,220.94, $220.94 
+FB,10, $365.51 ,24/08/2021,20:49:41," $3,655.10 ",,,1,PFE, $47.76 , $47.76 ,,,,1,AMD,107.94, $107.94 
+GOOGL,3," $2,825.23 ",24/08/2021,20:54:49," $8,475.69 ",,,1,TSLA, $706.94 , $706.94 ,,,,1,FB,366.94, $366.94 
+UBER,20, $40.17 ,24/08/2021,20:56:14, $803.40 ,,,,,,,,,,1,UBER,40.98, $40.98 
+TTWO,10, $163.82 ,24/08/2021,20:58:21," $1,638.20 ",,,,,,,,,,1,NVDA,220.94, $220.94 
+JPM,5, $157.67 ,24/08/2021,21:00:12, $788.35 ,,,,,,,,,,1,AMD,107.97, $107.97 
+QCOM,10, $144.46 ,24/08/2021,21:02:29," $1,444.60 ",,,,,,,,,,Acciones vendidas,Acción, Ganancia o Perdida Total ,
+LOGI,5, $106.29 ,24/08/2021,21:05:09, $531.45 ,,,,,,,,,,1,GOOGL, $98.72 ,
+,,,,,,,,,,,,,,,1,MSFT,-$4.66 ,
+,,,,Total:," $20,633.99 ",USD,,,,,,,,,2,NVDA, $2.72 ,
+,,,,,,,,,,,,,,,2,AMD, $0.61 ,
+,,,,,,,,,,,,,,,1,FB, $1.43 ,
+Estrategia:,FIFO,,,,,,,,,,,,,,1,UBER, $0.81 ,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Resultado,,,,
+,,,,,,,,,,,,,,,Acciones restantes,Acción,Valor Unitario:,Valor Total:
+,,,,,,,,,,,,,,Titulos restantes,2,GOOGL," $2,825.23 "," $5,650.46 "
+,,,,,,,,,,,,,,,1,MSFT, $304.65 , $304.65 
+,,,,,,,,,,,,,,,3,NVDA, $219.58 , $658.74 
+,,,,,,,,,,,,,,,8,AMD, $107.65 , $861.20 
+,,,,,,,,,,,,,,,9,FB, $365.51 ," $3,289.59 "
+,,,,,,,,,,,,,,,19,UBER, $40.17 , $763.23 
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,Movimientos,A petición del cliente,,,,,,,,,
+,,,,,,,Ejercicio de Neteo en compra,,,,,,,Ejercicio de Neteo Total Venta,,,,
+,,,,,,,,Titulos a comprar,Acciones,Precio unitario por acción,Precio total,,,,Titulos a Vender,Acción,Precio unitario de Venta,Total
+,,,,,,,,1,Apple, $148.55 , $148.55 ,,,,5,JPM, $163.15 , $815.75 
+,,,,,,,,1,Amazon," $3,400.96 "," $3,400.96 ",,,,10,QCOM, $144.89 ," $1,448.90 "
+,,,,,,,,1,Apple, $148.58 , $148.58 ,,,,,,,
+,,,,,,,,1,Apple, $148.55 , $148.55 ,,,,,,,
+,,,,,,,,1,Amazon," $3,379.65 "," $3,379.65 ",,,,,,,
+,,,,,,,,1,Amazon," $3,354.30 "," $3,354.30 ",,,,Acciones restantes,Acción,Ganancia o Perdida Total,
+,,,,,,,,1,Apple, $148.61 , $148.61 ,,,Resultado,0,JPM, $27.40 ,
+,,,,,,,,1,Amazon," $3,470.38 "," $3,470.38 ",,,,0,QCOM, $4.30 ,
+,,,,,,,,Titulos totales,Acción, Precio Unitario ,Precio Total,,,,,,,
+,,,,,,,,4,Apple, $148.57 , $594.30 ,,,,,,,
+,,,,,,,,4,Amazon," $3,401.32 "," $13,605.29 ",,,,,,,
